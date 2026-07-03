@@ -11,7 +11,7 @@ Draft landing page for a Shopify Enterprise EMEA commerce forum in **Dublin, Ire
 - `enterprise-forum-dublin.ics` — all-day calendar hold for 19–21 August 2026
 - `logos/shopify.svg` — footer logo
 - `logos/bloomreach.svg` and `logos/gorgias.svg` — Powered by partner logos
-- `images/dublin-bridge.jpg` — public-domain Ha’penny Bridge photo from Wikimedia Commons
+- Hero-card photo uses a public-domain Ha’penny Bridge image from Wikimedia Commons
 
 ## Notes
 - The page is marked `noindex, nofollow` while in draft mode.
