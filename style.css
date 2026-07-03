@@ -274,7 +274,7 @@ h2 {
   margin-bottom: 1.4rem;
   background:
     linear-gradient(180deg, rgba(7, 19, 15, 0.02), rgba(7, 19, 15, 0.32)),
-    url("./images/dublin-bridge.jpg") center / cover no-repeat;
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HalfPennyBridge.jpg/1280px-HalfPennyBridge.jpg") center / cover no-repeat;
 }
 .card-topline {
   margin-bottom: 1.2rem;
