@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shopify//Executive Commerce Forum Summer Edition Dublin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:executive-commerce-forum-summer-edition-dublin-20260819@shopify.com
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260822
+SUMMARY:Executive Commerce Forum - Summer Edition — Dublin
+LOCATION:Dublin, Ireland
+DESCRIPTION:A multi-day executive forum for relationship building, strategic alignment, open dialogue, and insight into enterprise priorities across EMEA.
+END:VEVENT
+END:VCALENDAR
