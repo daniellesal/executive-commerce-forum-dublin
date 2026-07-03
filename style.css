@@ -273,9 +273,8 @@ h2 {
   border-radius: 24px;
   margin-bottom: 1.4rem;
   background:
-    linear-gradient(135deg, rgba(209, 170, 99, 0.52), rgba(45, 125, 88, 0.48)),
-    radial-gradient(circle at 30% 30%, rgba(246, 241, 229, 0.6), transparent 25%),
-    linear-gradient(145deg, #163b2d, #092019);
+    linear-gradient(180deg, rgba(7, 19, 15, 0.02), rgba(7, 19, 15, 0.32)),
+    url("./images/dublin-bridge.jpg") center / cover no-repeat;
 }
 .card-topline {
   margin-bottom: 1.2rem;
